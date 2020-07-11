@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yinglingxuan.github.io</id>
-    <title>樱凌轩的博客 • Posts by &#34;gulp&#34; tag</title>
-    <link href="https://yinglingxuan.github.io" />
+    <id>https://liaozitao.github.io</id>
+    <title>梓涛的博客 • Posts by &#34;gulp&#34; tag</title>
+    <link href="https://liaozitao.github.io" />
     <updated>2020-07-06T08:24:57.000Z</updated>
     <category term="Gulp" />
     <category term="JavaScript" />
@@ -12,9 +12,9 @@
     <category term="Mybatis" />
     <category term="canvas" />
     <entry>
-        <id>https://yinglingxuan.github.io/2020/07/06/Gulp%E9%85%8D%E7%BD%AE/</id>
+        <id>https://liaozitao.github.io/2020/07/06/Gulp%E9%85%8D%E7%BD%AE/</id>
         <title>Gulp配置</title>
-        <link rel="alternate" href="https://yinglingxuan.github.io/2020/07/06/Gulp%E9%85%8D%E7%BD%AE/"/>
+        <link rel="alternate" href="https://liaozitao.github.io/2020/07/06/Gulp%E9%85%8D%E7%BD%AE/"/>
         <content type="html">&lt;h1 id=&#34;gulpsettingdemo&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#gulpsettingdemo&#34;&gt;&lt;/a&gt; gulpSettingDemo&lt;/h1&gt;
 &lt;h1 id=&#34;gulp常用的配置和演示&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#gulp常用的配置和演示&#34;&gt;&lt;/a&gt; gulp常用的配置和演示&lt;/h1&gt;
 &lt;h1 id=&#34;对应的插件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#对应的插件&#34;&gt;&lt;/a&gt; 对应的插件&lt;/h1&gt;

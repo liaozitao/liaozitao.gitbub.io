@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>樱凌轩的博客 • Posts by &#34;gulp&#34; tag</title>
-        <link>https://yinglingxuan.github.io</link>
+        <title>梓涛的博客 • Posts by &#34;gulp&#34; tag</title>
+        <link>https://liaozitao.github.io</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Mon, 06 Jul 2020 16:24:57 +0800</pubDate>
@@ -15,9 +15,9 @@
         <category>Mybatis</category>
         <category>canvas</category>
         <item>
-            <guid isPermalink="true">https://yinglingxuan.github.io/2020/07/06/Gulp%E9%85%8D%E7%BD%AE/</guid>
+            <guid isPermalink="true">https://liaozitao.github.io/2020/07/06/Gulp%E9%85%8D%E7%BD%AE/</guid>
             <title>Gulp配置</title>
-            <link>https://yinglingxuan.github.io/2020/07/06/Gulp%E9%85%8D%E7%BD%AE/</link>
+            <link>https://liaozitao.github.io/2020/07/06/Gulp%E9%85%8D%E7%BD%AE/</link>
             <category>Gulp</category>
             <category>JavaScript</category>
             <category>css</category>

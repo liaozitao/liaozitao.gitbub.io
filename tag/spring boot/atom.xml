@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yinglingxuan.github.io</id>
-    <title>樱凌轩的博客 • Posts by &#34;spring boot&#34; tag</title>
-    <link href="https://yinglingxuan.github.io" />
+    <id>https://liaozitao.github.io</id>
+    <title>梓涛的博客 • Posts by &#34;spring boot&#34; tag</title>
+    <link href="https://liaozitao.github.io" />
     <updated>2020-07-06T08:24:57.000Z</updated>
     <category term="Gulp" />
     <category term="JavaScript" />
@@ -12,9 +12,9 @@
     <category term="Mybatis" />
     <category term="canvas" />
     <entry>
-        <id>https://yinglingxuan.github.io/2020/07/06/Springboot%20%E5%92%8CMybatis%E9%85%8D%E7%BD%AE/</id>
+        <id>https://liaozitao.github.io/2020/07/06/Springboot%20%E5%92%8CMybatis%E9%85%8D%E7%BD%AE/</id>
         <title>Spring boot 和 Mybatis配置</title>
-        <link rel="alternate" href="https://yinglingxuan.github.io/2020/07/06/Springboot%20%E5%92%8CMybatis%E9%85%8D%E7%BD%AE/"/>
+        <link rel="alternate" href="https://liaozitao.github.io/2020/07/06/Springboot%20%E5%92%8CMybatis%E9%85%8D%E7%BD%AE/"/>
         <content type="html">&lt;h1 id=&#34;spring-boot项目运行&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#spring-boot项目运行&#34;&gt;&lt;/a&gt; Spring boot项目运行&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;方式1 可以直接软件里面运行&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;方式2 ：可以使用命令在当前的项目下运行 ： 用命令启动,到项目目录下面。运行:mvn spring-boot:run&lt;/strong&gt;&lt;/p&gt;
