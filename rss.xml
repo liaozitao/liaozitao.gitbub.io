@@ -5,8 +5,8 @@
         <link>https://liaozitao.github.io</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Tue, 07 Jul 2020 10:40:57 +0800</pubDate>
-        <lastBuildDate>Tue, 07 Jul 2020 10:40:57 +0800</lastBuildDate>
+        <pubDate>Sat, 11 Jul 2020 19:40:57 +0800</pubDate>
+        <lastBuildDate>Sat, 11 Jul 2020 19:40:57 +0800</lastBuildDate>
         <category>Gulp</category>
         <category>JavaScript</category>
         <category>css</category>
@@ -14,6 +14,17 @@
         <category>Spring boot</category>
         <category>Mybatis</category>
         <category>canvas</category>
+        <category>美食</category>
+        <category>美图</category>
+        <item>
+            <guid isPermalink="true">https://liaozitao.github.io/2020/07/11/%E5%9B%BE%E7%89%87%E9%9B%86/</guid>
+            <title>图片集</title>
+            <link>https://liaozitao.github.io/2020/07/11/%E5%9B%BE%E7%89%87%E9%9B%86/</link>
+            <category>美食</category>
+            <category>美图</category>
+            <pubDate>Sat, 11 Jul 2020 19:40:57 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://liaozitao.github.io/2020/07/07/%E7%AE%80%E5%8D%95%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97/</guid>
             <title>简单手写俄罗斯方块</title>
