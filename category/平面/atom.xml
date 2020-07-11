@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liaozitao.github.io</id>
+    <title>梓涛的博客 • Posts by &#34;平面&#34; category</title>
+    <link href="https://liaozitao.github.io" />
+    <updated>2019-07-11T11:40:57.000Z</updated>
+    <category term="Gulp" />
+    <category term="JavaScript" />
+    <category term="css" />
+    <category term="Java" />
+    <category term="Spring boot" />
+    <category term="Mybatis" />
+    <category term="canvas" />
+    <category term="LOGO设计" />
+    <entry>
+        <id>https://liaozitao.github.io/2019/07/11/%E5%9B%BE%E7%89%87%E9%9B%86/</id>
+        <title>曲奇饼LOGO</title>
+        <link rel="alternate" href="https://liaozitao.github.io/2019/07/11/%E5%9B%BE%E7%89%87%E9%9B%86/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://liaozitao.github.io/img/jiujiulogo.jpg&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="LOGO设计" />
+        <updated>2019-07-11T11:40:57.000Z</updated>
+    </entry>
+</feed>
